@@ -1,2 +1,1 @@
-# Epic-Archery--Stage-4
-Shooting arrows at a computer.
+# Project Template 26
